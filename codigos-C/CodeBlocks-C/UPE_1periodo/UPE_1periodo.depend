@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1777301808 source:c:\users\gdluc\onedrive\desktop\atividades\codigos-c\codeblocks-c\upe_1periodo\monitoria2.c
+	<stdio.h>
+	<string.h>
+	<iso646.h>
+
