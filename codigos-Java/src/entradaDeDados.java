@@ -20,7 +20,7 @@ public class entradaDeDados {
         System.out.println("Hello " + name);
 
         System.out.println("Enter your age: ");
-        int age = scanner.nextLine();
+        String age = scanner.nextLine();
 
         System.out.println("Your age is " + age);
 
